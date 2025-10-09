@@ -25,9 +25,9 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-map.html
-<html>
-    <head>
+
+     <html>
+     <head>
         <title>
             MY CITY
         </title>
@@ -49,13 +49,11 @@ map.html
         </map>
     </center>
     </body>
-</html>
-
-temple.html
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    </html>
+    
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Description of a Murugan Temple</title>
@@ -87,14 +85,11 @@ temple.html
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
     </style>
-</head>
-<body>
-
-school.html
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    </head>
+    <body>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Keins Matric Hr. Sec. School - Profile</title>
@@ -139,8 +134,8 @@ school.html
             margin-bottom: 5px;
         }
     </style>
-</head>
-<body>
+     </head>
+     <body>
 
     <div class="container">
         <h1>Keins Matric Hr. Sec. School</h1>
@@ -204,8 +199,8 @@ school.html
             color: #c0392b; /* Red accent for emphasis */
         }
     </style>
-</head>
-<body>
+    </head>
+    <body>
 
     <div class="container">
         <h2>The Thamirabarani River</h2>
@@ -215,8 +210,6 @@ school.html
         </p>
         <p>
             It originates from the *Pothigai Hills* of the Western Ghats and flows eastward through the Tirunelveli and Thoothukudi districts before draining into the *Gulf of Mannar*. </p>
-
-    park.html
 
      <!DOCTYPE html>
      <html lang="en">
