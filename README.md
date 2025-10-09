@@ -169,6 +169,59 @@ Execute the programs and publish them.
     </div><br><br><br>
 
     </body>
+     <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VR Mall</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 20px 30px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #004d99;
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        h2 {
+            color: #1a75ff;
+            font-size: 1.2em;
+            border-bottom: 1px solid #e0e0e0;
+            padding-bottom: 5px;
+            margin-top: 20px;
+        }
+        p {
+            text-align: justify;
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: square;
+            margin-left: 25px;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 5px;
+        }
+    </style>
+     </head>
+     <body>
+
+    <div class="container">
+        <h1>VR Mall</h1>
+        <p>VR Chennai is a shopping mall located on Jawaharlal Nehru Road in Anna Nagar West, Chennai, Tamil Nadu, India.[3] This mall was opened to the public on 18 June 2018.[1] It is one of the largest malls in Chennai by area, occupying 1,840,000 square feet (171,000 m2) built-up area with 1,000,000 square feet (93,000 m2) of retail space
+     The façade of the mall sports a multi-coloured design based on the traditional gopuram (South-Indian temple tower) inspired by Madras checks. Maps of the Chera, Chola and Pallava dynasties of South India and their distinct                geographical spread are engraved on the walls at the entrance. The entrance also features a rectangular water path embellished with white lilies. The exterior walls of the façade sport symbolic carvings meant as cultural homage to the various dynasties from the Kadamba to the Vijayanagara.</p>
+     
     </html>
 
 
@@ -184,6 +237,9 @@ Execute the programs and publish them.
 
 
 <img width="809" height="227" alt="image" src="https://github.com/user-attachments/assets/eba5860f-e360-4bbc-a2b4-2f645d451d91" />
+
+
+<img width="443" height="266" alt="image" src="https://github.com/user-attachments/assets/471baa4a-7b8d-4fd4-8804-52018941ab84" />
 
 
 
