@@ -115,25 +115,18 @@ Execute the programs and publish them.
             At Union Christian Public School, we envisage a generation that dreams of, acts and achieves excellence beyond education.
         </p>
 
-        <h2>Key Features</h2>
-        <ul>
-            <li>A focus on *Indian ethos and values*.</li>
-            <li>The provision of *advanced infrastructure*, including modern science and computer labs, and digital classrooms.</li>
-            <li>A commitment to both academic excellence and *holistic development* through mandatory co-curricular activities like yoga, arts, and crafts.</li>
-        </ul>
+        <h2>Principal's Message</h2>
+         <p>“It is never too late to be who you might have been.”- George Elliot Education in the Gen Z era is a challenge for the educationists around the globe. As educational leaders we have to open up our mind and alienate from the traditional approach to teaching and create room for new style in teaching which is centred around learning beyond texts, experiential learning and self-directed learning. Learning must be redefined with the use of technology and should envision a future ready generation.</p>
     </div>
 
     </body> 
     </html>
-
-    river.html
-
     <!DOCTYPE html>
     <html lang="en">
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thamirabarani River - Short Note</title>
+    <title>Adyar River</title>
     <style>
         body {
             font-family: 'Georgia', serif;
@@ -164,30 +157,24 @@ Execute the programs and publish them.
     <body>
 
     <div class="container">
-        <h2>The Thamirabarani River</h2>
+        <h2>The Adyar River</h2>
         
         <p>
-            The Thamirabarani (also known as Porunai) is the *only perennial river in Tamil Nadu, flowing approximately **128 km*.
-        </p>
-        <p>
-            It originates from the *Pothigai Hills* of the Western Ghats and flows eastward through the Tirunelveli and Thoothukudi districts before draining into the *Gulf of Mannar*. </p>
+            The Adyar River, which originates near the Chembarambakkam Lake in the Kanchipuram district, is one of the three rivers that winds through Chennai, Tamil Nadu, India, and joins the Bay of Bengal at the Adyar estuary. The 42.5-kilometre (26.4 mi) long river contributes to the estuarine ecosystem of Chennai. Despite the high pollution levels, boating and fishing take place in this river. The river collects surplus water from about 200 tanks and lakes, small streams and the rainwater drains in the city, with a combined catchment area of 860 square kilometres (331 sq mi). Most of the waste from the city is drained into this river and the Cooum. </p>
 
      <!DOCTYPE html>
      <html lang="en">
     <head>
     <meta charset="UTF-8">
-    <title>Tirunelveli Park Description</title>
+    <title>Anna Nagar Tower Park Description</title>
     </head>
     <body>
 
     <div id="park-description">
-        <h2>VOC Park, Tirunelveli</h2>
+        <h2>Anna Nagar Tower Park</h2>
         <p>
-            VOC Park is a popular public park located in the heart of Tirunelveli, near the Palayamkottai area. 
-            It is a well-maintained green space offering a serene environment for morning walks, jogging, and 
-            leisure activities. The park features lush lawns, walking paths, and usually includes a children's 
-            play area, making it a favorite spot for families and residents to relax and socialize.
-        </p>
+           Anna Nagar Tower Park, officially known as Dr Visvesvaraya Tower Park, is an urban park in the suburb of Anna Nagar, Chennai. It hosts a 133 ft (41 m) tall watch tower, which was built in 1968.
+           The park covers an area of 15 acres (6.1 ha). The 12-storey tower is located within the park and has a cyclic ramp spiraling to the top. The park and the tower is managed by the Greater Chennai Corporation. The park has other facilities including an amphitheatre, a bird-watching deck, badminton courts, play area for kids, a skating rink, a lake, and other convenience facilities. The lake has fishes, water birds, and turtles.
     </div>
 
     </body>
