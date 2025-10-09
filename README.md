@@ -48,11 +48,6 @@ Execute the programs and publish them.
     </map>
     </center>
     </body>
-    </html>
-    
- 
-    <!DOCTYPE html>
-    <html lang="en">
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -107,22 +102,19 @@ Execute the programs and publish them.
 
         <p>
             Union Christian Public School, affiliated to CBSE, started in 2015 and is an initiative of the Union Christian Association established in 1977. The School is located in the heart of Chennai at Chetpet. It is a full-fledged school that nurtures an ideal educational environment and fosters a student’s quest for excellence in all spheres of life.
-        </p>
+        </p><br><br><br>
 
         <h2>Mission and Vision</h2>
         <p>
             Our mission is to facilitate a holistic learning experience, sensitive to the needs of every individual learner. We impart quality education that covers multiple aspects of academia, striving to provide an environment that is conducive to growing creativity and innovation through collaborative, hands-on learning. In our endeavour to build moral character, we rely on the sound guidance of Christian principles, which form the cornerstone of our great institution. In every student who passes through the portals of our school, we instill tolerance, compassion, a respect for nature, an awareness of local and global perspectives, and a commitment to lifelong learning.<br><br>
             At Union Christian Public School, we envisage a generation that dreams of, acts and achieves excellence beyond education.
-        </p>
+        </p><br><br><br>
 
-        <h2>Principal's Message</h2>
-         <p>“It is never too late to be who you might have been.”- George Elliot Education in the Gen Z era is a challenge for the educationists around the globe. As educational leaders we have to open up our mind and alienate from the traditional approach to teaching and create room for new style in teaching which is centred around learning beyond texts, experiential learning and self-directed learning. Learning must be redefined with the use of technology and should envision a future ready generation.</p>
+        
     </div>
 
     </body> 
-    </html>
-    <!DOCTYPE html>
-    <html lang="en">
+  
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -160,10 +152,9 @@ Execute the programs and publish them.
         <h2>The Adyar River</h2>
         
         <p>
-            The Adyar River, which originates near the Chembarambakkam Lake in the Kanchipuram district, is one of the three rivers that winds through Chennai, Tamil Nadu, India, and joins the Bay of Bengal at the Adyar estuary. The 42.5-kilometre (26.4 mi) long river contributes to the estuarine ecosystem of Chennai. Despite the high pollution levels, boating and fishing take place in this river. The river collects surplus water from about 200 tanks and lakes, small streams and the rainwater drains in the city, with a combined catchment area of 860 square kilometres (331 sq mi). Most of the waste from the city is drained into this river and the Cooum. </p>
+            The Adyar River, which originates near the Chembarambakkam Lake in the Kanchipuram district, is one of the three rivers that winds through Chennai, Tamil Nadu, India, and joins the Bay of Bengal at the Adyar estuary. The 42.5-kilometre (26.4 mi) long river contributes to the estuarine ecosystem of Chennai. Despite the high pollution levels, boating and fishing take place in this river. The river collects surplus water from about 200 tanks and lakes, small streams and the rainwater drains in the city, with a combined catchment area of 860 square kilometres (331 sq mi). Most of the waste from the city is drained into this river and the Cooum. </p><br><br><br>
 
-     <!DOCTYPE html>
-     <html lang="en">
+     
     <head>
     <meta charset="UTF-8">
     <title>Anna Nagar Tower Park Description</title>
@@ -175,7 +166,7 @@ Execute the programs and publish them.
         <p>
            Anna Nagar Tower Park, officially known as Dr Visvesvaraya Tower Park, is an urban park in the suburb of Anna Nagar, Chennai. It hosts a 133 ft (41 m) tall watch tower, which was built in 1968.
            The park covers an area of 15 acres (6.1 ha). The 12-storey tower is located within the park and has a cyclic ramp spiraling to the top. The park and the tower is managed by the Greater Chennai Corporation. The park has other facilities including an amphitheatre, a bird-watching deck, badminton courts, play area for kids, a skating rink, a lake, and other convenience facilities. The lake has fishes, water birds, and turtles.
-    </div>
+    </div><br><br><br>
 
     </body>
     </html>
@@ -184,6 +175,17 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
+<img width="1239" height="676" alt="image" src="https://github.com/user-attachments/assets/c23daf75-1384-444f-94af-65314caa0a46" />
+
+
+
+<img width="809" height="665" alt="image" src="https://github.com/user-attachments/assets/859f7593-4ab0-48f1-879c-aaaef3949efc" />
+
+
+
+<img width="809" height="227" alt="image" src="https://github.com/user-attachments/assets/eba5860f-e360-4bbc-a2b4-2f645d451d91" />
+
+
 
 
 
